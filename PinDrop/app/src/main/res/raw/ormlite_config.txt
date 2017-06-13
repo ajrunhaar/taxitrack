@@ -1,0 +1,20 @@
+# --table-start--
+dataClass=com.riftinnovation.pindrop.data.Pin
+tableName=pin_details
+# --table-fields-start--
+# --fields-start--
+fieldName=lat
+columnName=latitude
+# --field-end--
+# --fields-start--
+fieldName=lng
+columnName=longitude
+# --field-end--
+# --fields-start--
+fieldName=type
+columnName=pin_type
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################
+
